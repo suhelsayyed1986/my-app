@@ -1,0 +1,3 @@
+# Esimerkki testityöaseman ympäristöjen määrityksestä 
+# päivitysrutiiniin
+CR403811	STEST 	HYVTESTI	STES1	STES3	TESTB	TESTD	KPROD
